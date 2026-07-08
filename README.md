@@ -1,57 +1,84 @@
-# 👋 Hi, I'm **Samin Saki**
+# 👋 Hi, I'm Samin Saki
 
-🎯 **AI & Robotics Engineer | Data Automation Specialist | Python Developer**  
-📍 Based in Tehran | Working at [ELO International Group](https://elovisa.com)  
+**AI & Automation Engineer | Python Developer | Data-Driven Systems Builder**
 
----
-
-### 🧠 About Me
-I’m a Robotics Engineer and Data Automation Specialist passionate about integrating **Artificial Intelligence**, **Machine Learning**, and **Automation** to solve real-world problems.  
-I have strong experience in **Python**, **Data Analytics**, and **Deep Learning**, and I'm currently advancing my skills through the **Filoger AI Engineering Program** and **Andrew Ng’s AI Specialization**.
+I design and build intelligent systems that combine **AI**, **workflow automation**, and **data infrastructure** to solve real operational problems.  
+My background in **Robotics Engineering**, **industrial data analysis**, and **software-driven automation** helps me approach systems with both engineering precision and product thinking.
 
 ---
 
-### ⚙️ Technical Skills
+## 🚀 About Me
 
-| Domain | Skills |
-|--------|---------|
-| **Programming & Data** | Python, Pandas, NumPy, Matplotlib, SQL, MongoDB |
-| **AI & ML** | Scikit-learn, TensorFlow, Keras, CNNs, RNNs, Regression, Classification |
-| **Robotics & Simulation** | CATIA, Adams, Proteus |
-| **Version Control** | Git, GitHub |
-| **Other Tools** | Jupyter Notebook, VS Code, Google Colab |
+- Building **AI-powered automation systems** for CRM, lead management, and operational workflows
+- Designing **RAG pipelines** and **AI agents** for knowledge retrieval and process support
+- Working with **Python**, **n8n**, and **PostgreSQL** to create scalable backend automation
+- Applying **machine learning and deep learning** to industrial and real-world datasets
+- Combining an **engineering mindset** with practical AI implementation for production use cases
 
 ---
 
-### 📊 GitHub Stats
-![Samin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=saminsaki&show_icons=true&theme=tokyonight)
+## 🧰 Tech Stack
+
+**Automation & AI**  
+`n8n` `RAG` `AI Agents` `Workflow Automation` `Prompt Engineering`
+
+**Programming & Data**  
+`Python` `SQL` `PostgreSQL` `Pandas` `NumPy` `ETL`
+
+**Machine Learning**  
+`Scikit-learn` `XGBoost` `TensorFlow` `Keras` `CNN` `LSTM` `GRU`
+
+**Deployment & Tools**  
+`FastAPI` `Docker` `Git` `Jupyter` `VS Code`
+
+**Engineering Background**  
+`Robotics` `Mechatronics` `CATIA` `PLC` `CNC` `Industrial Systems`
+
+---
+
+## 📌 What I Work On
+
+- **AI Automation Systems**  
+  Building workflow-based systems that connect forms, CRMs, messaging channels, databases, and AI services into one operational pipeline.
+
+- **RAG & Knowledge Workflows**  
+  Creating AI assistants that retrieve the right information from structured and unstructured sources to support users, teams, and internal processes.
+
+- **Data Pipelines & Analytics**  
+  Preparing, cleaning, transforming, and analyzing large datasets for machine learning, reporting, and decision support.
+
+- **Industrial AI Applications**  
+  Applying predictive models and deep learning methods to complex technical datasets, especially in engineering and drilling-related domains.
+
+---
+
+## 🎓 Education & Certifications
+
+- **Artificial Intelligence Engineering** — Filoger Comprehensive School of AI Engineering
+- **Scientific Computing with Python** — freeCodeCamp
+- **Python Comprehensive Artificial Intelligence Course** — Filoger
+- **B.Sc. in Robotics Engineering** — Hamedan University of Technology
+- **Mechatronics** — Iran Technical & Vocational Training
+
+---
+
+## 📚 Publications
+
+- *Optimum Determination of Motor Mount Locations for a Cable-driven Rehabilitation Robot*
+- *Simulation of Gait Rehabilitation on Treadmill Based on Cable Robots*
+
+---
+
+## 🌍 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/samin-samin-saki-57049579](https://linkedin.com/in/samin-samin-saki-57049579)
+- **GitHub:** [github.com/saminsaki](https://github.com/saminsaki)
+- **Blog:** [rgohut.blogfa.com](http://rgohut.blogfa.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Samin's GitHub stats](https://github-readme-stats.vercel.app/api?username=saminsaki&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saminsaki&layout=compact&theme=tokyonight)
-
----
-
-### 📚 Publications
-- “Optimum Determination of Motor Mount Locations for a Cable-driven Rehabilitation Robot”, *IEEE RSI/ISM Conference, 2014*
-- “Simulation of Gait Rehabilitation on Treadmill Based on Cable Robots”, *University of Guilan, 2014*
-
----
-
-### 🎓 Education
-- **AI Engineering Program – Filoger (2023–2024)**  
-- **B.Sc. Robotics Engineering – Hamedan University of Technology (2015)**  
-
----
-
-### 💬 Languages
-- English (C1)  
-- German (B1)  
-- Persian (Native)  
-
----
-
-### 🌍 Connect With Me
-📧 **Email:** samin.saki@gmail.com  
-🔗 [GitHub](https://github.com/saminsaki) | [LinkedIn](https://linkedin.com/in/samin-samin-saki-57049579) | [Blog](http://rgohut.blogfa.com)
-
----
-
-⭐️ *“The future belongs to those who teach machines how to think.”*
