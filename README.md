@@ -71,7 +71,6 @@ My background in **Robotics Engineering**, **industrial data analysis**, and **s
 
 ## 🌍 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/samin-samin-saki-57049579](https://linkedin.com/in/samin-samin-saki-57049579)
 - **GitHub:** [github.com/saminsaki](https://github.com/saminsaki)
 - **Blog:** [rgohut.blogfa.com](http://rgohut.blogfa.com)
 
